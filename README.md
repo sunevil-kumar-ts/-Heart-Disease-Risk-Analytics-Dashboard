@@ -1,5 +1,5 @@
 # -Heart-Disease-Risk-Analytics-Dashboard
-## 📌 Overview An interactive Power BI dashboard that analyzes heart disease risk using patient demographics and cardiac biomarker data. The project helps identify high-risk patients and uncover trends related to age, gender, and heart attack occurrence.
+##  Overview An interactive Power BI dashboard that analyzes heart disease risk using patient demographics and cardiac biomarker data. The project helps identify high-risk patients and uncover trends related to age, gender, and heart attack occurrence.
 
 ## 🛠 Tools Used
 - Power BI
@@ -7,7 +7,7 @@
 - DAX
 - Excel/CSV
 
-## 📊 Key Features
+##  Key Features
 - Total Patients & Heart Attack KPI Cards
 - Age Group Analysis
 - Gender-wise Heart Attack Distribution
@@ -15,7 +15,7 @@
 - High-Risk Patient Identification
 - Interactive Filters and Visualizations
 
-## 📈 Key Insights
+## Key Insights
 - The 50–69 age group has the highest heart attack prevalence.
 - Male patients show a higher positive diagnosis rate.
 - Elevated Troponin and KCM levels are linked to heart disease.
