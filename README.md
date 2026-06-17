@@ -22,7 +22,7 @@
 - High-risk biomarker classifications strongly correlate with positive cases.
 
 ##  Dashboard Preview
-<img width="1330" height="742" alt="Screenshot 2026-06-17 170436" src="https://github.com/user-attachments/assets/4b3b8c7e-194b-4531-859d-407ed6a081b6" />
+<img width="1317" height="737" alt="Screenshot 2026-06-17 170525" src="https://github.com/user-attachments/assets/5127b5f3-4d61-445d-86b7-fdae2a116c58" />
 
 
 
