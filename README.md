@@ -21,9 +21,9 @@
 - Elevated Troponin and KCM levels are linked to heart disease.
 - High-risk biomarker classifications strongly correlate with positive cases.
 
-## 📷 Dashboard Preview
+##  Dashboard Preview
 (Add your dashboard screenshot here)
 
-## 👨‍💻 Author
+## Author
 **Sunevil Kumar**
 Data Analytics Enthusiast | Power BI | SQL | Python
